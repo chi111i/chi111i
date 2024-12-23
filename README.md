@@ -7,9 +7,19 @@ Welcome to my GitHub profile!
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about CTF, WEB, MISC
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+## My Interests
+
+- CTF (Capture The Flag)
+- Web Development
+- Miscellaneous tech topics
+
+## My Blog
+
+Check out my blog: [chi11i.fun](https://chi11i.fun)
 
 ## My GitHub Stats
 
