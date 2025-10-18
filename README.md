@@ -19,7 +19,7 @@ Welcome to my GitHub profile!
 
 ## My Blog
 
-Check out my blog: [chi11i.fun](https://chi11i.fun)
+
 
 ## My GitHub Stats
 
