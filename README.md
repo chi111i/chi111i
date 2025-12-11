@@ -58,7 +58,7 @@ const chi111i = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=chi111i&theme=discord&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/chi111i)
+[![trophy](https://github-profile-trophy.vercel.app/?username=chi111i&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/chi111i)
 
 </div>
 
@@ -89,9 +89,15 @@ const chi111i = {
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chi111i)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog-url.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+<!-- Update the placeholder links above with your actual contact information:
+- Replace # in Email badge with: mailto:your-email@example.com
+- Replace # in Blog badge with: https://your-blog-url.com
+- Replace # in Twitter badge with: https://twitter.com/your-handle
+-->
 
 </div>
 
