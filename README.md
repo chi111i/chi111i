@@ -1,26 +1,122 @@
-# Hi there, I'm chi111i 👋
+<div align="center">
+  
+# 👋 Hi there, I'm chi111i
 
-Welcome to my GitHub profile!
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;CTF+%7C+Web+Development+%7C+Security+Enthusiast;Always+Learning+%2C+Always+Growing" alt="Typing SVG" />
 
-## About Me
+[![Profile Views](https://komarev.com/ghpvc/?username=chi111i&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/chi111i)
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about CTF, WEB, MISC
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
+</div>
 
-## My Interests
+---
 
-- CTF (Capture The Flag)
-- Web Development
-- Miscellaneous tech topics
+## 🚀 About Me
 
-## My Blog
+```javascript
+const chi111i = {
+    location: "🌏 Earth",
+    interests: ["CTF", "Web Development", "Cybersecurity", "MISC"],
+    currentFocus: "Learning advanced web security techniques",
+    funFact: "I debug code with console.log() like a pro 😎",
+    lifePhilosophy: "Code, Learn, Break, Repeat"
+};
+```
 
+<div align="center">
 
+### 💻 Tech Stack & Skills
 
-## My GitHub Stats
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-![chi111i's GitHub stats](https://github-readme-stats.vercel.app/api?username=chi111i&show_icons=true&theme=radical)
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chi111i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=chi111i&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi111i&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=chi111i&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=chi111i&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/chi111i)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- 🔐 **CTF Challenges**: Capture The Flag competitions and cybersecurity challenges
+- 🌐 **Web Development**: Building modern, responsive web applications
+- 🛡️ **Security Research**: Web application security and penetration testing
+- 📚 **Continuous Learning**: Always expanding my knowledge in new technologies
+
+---
+
+## 💡 Featured Projects
+
+<div align="center">
+
+<!-- Add your pinned repos here using repo cards -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chi111i&repo=chi111i&theme=tokyonight&hide_border=true)](https://github.com/chi111i/chi111i)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chi111i)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](#)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](#)
+
+<!-- Update the placeholder links above with your actual contact information:
+- Replace # in Email badge with: mailto:your-email@example.com
+- Replace # in Blog badge with: https://your-blog-url.com
+- Replace # in Twitter badge with: https://twitter.com/your-handle
+-->
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/chi111i/chi111i/output/github-contribution-grid-snake.svg)
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+**✨ Thanks for visiting my profile! Let's connect and build something awesome together! ✨**
+
+</div>
