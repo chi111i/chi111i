@@ -43,14 +43,14 @@ const chi111i = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chi111i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com/?user=chi111i&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chi111i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=chi111i&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi111i&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi111i&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 <br/>
