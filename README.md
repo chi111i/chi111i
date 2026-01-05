@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hi there, I'm chi111i
+# 👋 Hi there, I'm chi11i
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;CTF+%7C+Web+Development+%7C+Security+Enthusiast;Always+Learning+%2C+Always+Growing" alt="Typing SVG" />
 
