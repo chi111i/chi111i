@@ -10,17 +10,9 @@
 
 ---
 
-## 🚀 About Me
 
-```javascript
-const chi111i = {
-    location: "🌏 Earth",
-    interests: ["CTF", "Web Development", "Cybersecurity", "MISC"],
-    currentFocus: "Learning advanced web security techniques",
-    funFact: "I debug code with console.log() like a pro 😎",
-    lifePhilosophy: "Code, Learn, Break, Repeat"
-};
-```
+
+
 
 <div align="center">
 
@@ -42,31 +34,10 @@ const chi111i = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=chi111i&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="180" src="https://streak-stats.demolab.com/?user=chi111i&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chi111i&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
 <br/>
 
 <div align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=chi111i&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-<img width="90%" src="https://github-profile-trophy.vercel.app/?username=chi111i&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=-1" alt="GitHub Trophies" />
-
 </div>
 
 ---
@@ -77,17 +48,6 @@ const chi111i = {
 - 🌐 **Web Development**: Building modern, responsive web applications
 - 🛡️ **Security Research**: Web application security and penetration testing
 - 📚 **Continuous Learning**: Always expanding my knowledge in new technologies
-
----
-
-## 💡 Featured Projects
-
-<div align="center">
-
-<!-- Add your pinned repos here using repo cards -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=chi111i&repo=chi111i&theme=tokyonight&hide_border=true)](https://github.com/chi111i/chi111i)
-
-</div>
 
 ---
 
